@@ -1,4 +1,4 @@
-![👋 Welcome to the Tien's workspace🤯](./your-header-image-name.png)
+![👋 Welcome to the Tien's workspace🤯](./github-header-image.png)
 
 <div id="toc">
   <ul align="center" style="list-style: none">
