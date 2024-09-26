@@ -1,4 +1,4 @@
-![👋 Welcome to the Tien's workspace🤯](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
+![👋 Welcome to the Tien's workspace🤯](![Header](./your-header-image-name.png))
 
 <div id="toc">
   <ul align="center" style="list-style: none">
@@ -19,7 +19,7 @@
 
 - 💼 I'm currently working on: **💻 Private platform for building native trading application**
 - 🌱 I'm currently learning: **📚 Developing a new trading app using Kotlin Multiplatform and Jetpack Compose UI**
-- 💬 Ask me about: **💡 JavaScript, Java, PostgreSQL, MySQL, Spring framework, and RESTful APIs**
+- 💬 Ask me about: **💡 JavaScript, Java, Kotlin, PostgreSQL, MySQL, Spring framework, and RESTful APIs**
 - ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
 
  **<h3 align="left">Skills</h3>**
